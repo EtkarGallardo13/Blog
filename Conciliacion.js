@@ -5,4 +5,6 @@ function identifcar (){
     return problema1
 }
 
-identifcar();
+identifcar(problema1);
+
+//pruebas con tags
