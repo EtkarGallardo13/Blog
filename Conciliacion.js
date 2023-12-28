@@ -8,3 +8,12 @@ function identifcar (){
 identifcar(problema1);
 
 //pruebas con tags
+
+function sumar (resultado){
+    let  = resultado;
+    A + B = resultado;
+
+}
+
+sumar(resultado);
+
