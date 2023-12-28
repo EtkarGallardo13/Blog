@@ -6,3 +6,9 @@ function identifcar (){
 }
 
 identifcar();
+
+function sumar(){
+a+b = ;
+}
+
+sumar();
