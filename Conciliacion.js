@@ -7,8 +7,5 @@ function identifcar (){
 
 identifcar();
 
-function sumar(){
-a+b = ;
-}
+let p2 = 1;
 
-sumar();
